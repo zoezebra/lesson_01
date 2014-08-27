@@ -79,7 +79,7 @@ Task 1: Sign-Up for GitHub
             reason to choose otherwise, leave the *Free* tier selected and 
             click **Finish sign-up**.
 
-            .. image:: http://is210-faculty.github.io/imgages/github-account-tier.png
+            .. image:: http://is210-faculty.github.io/images/github-account-tier.png
                 :align: center
 
         #.  This will take you to your `GitHub`_ landing page. If you'd like
