@@ -70,8 +70,8 @@ Task 1: Sign-Up for GitHub
         #.  Enter a new  username, your CUNY SPS-issued e-mail address,
             and a password, then click **Sign-Up**.
 
-        .. image:: http://is210-faculty.github.io/images/github-create-account.png
-            :align: center
+            .. image:: http://is210-faculty.github.io/images/github-create-account.png
+                :align: center
 
         #.  The next screen will ask if you wish to upgrade to a paid plain. A
             paid plan is not necessary for this course and will offer you no
@@ -79,8 +79,8 @@ Task 1: Sign-Up for GitHub
             reason to choose otherwise, leave the *Free* tier selected and 
             click **Finish sign-up**.
 
-        .. image:: http://is210-faculty.github.io/imgages/github-account-tier.png
-            :align: center
+            .. image:: http://is210-faculty.github.io/imgages/github-account-tier.png
+                :align: center
 
         #.  This will take you to your `GitHub`_ landing page. If you'd like
             to edit your profile further but including a picture or other
@@ -88,8 +88,8 @@ Task 1: Sign-Up for GitHub
             by clicking the little gear icon in the upper right corner of the
             header.
 
-        .. image:: http://is210-faculty.github.io/images/github-settings-icon.png
-            :align: center
+            .. image:: http://is210-faculty.github.io/images/github-settings-icon.png
+                :align: center
 
         #.  Check your e-mail address from a verification e-mail from
             `GitHub`_.
